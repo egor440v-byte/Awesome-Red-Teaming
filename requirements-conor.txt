@@ -1,0 +1,6 @@
+speechrecognition
+pyttsx3
+pycaw
+comtypes
+python-dotenv
+pyaudio
